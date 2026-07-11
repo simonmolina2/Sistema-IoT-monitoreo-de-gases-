@@ -1,0 +1,9 @@
+#pragma once
+
+// Copia este archivo como config.h y reemplaza con tus credenciales reales.
+// config.h esta en .gitignore y no se sube a GitHub.
+
+const char* ssid        = "TU_WIFI_SSID";
+const char* password    = "TU_WIFI_PASSWORD";
+const char* mqtt_server = "mqtt.thingsboard.cloud";
+const char* token       = "TU_THINGSBOARD_TOKEN";

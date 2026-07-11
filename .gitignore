@@ -1,0 +1,14 @@
+# Credenciales reales: nunca subir esto a git.
+# Cada colaborador copia config.h.example -> config.h y pone sus propios datos.
+src/config.h
+
+# Artefactos de build de PlatformIO
+.pio/
+.vscode/
+.cache/
+compile_commands.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
